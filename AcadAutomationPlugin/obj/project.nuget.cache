@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "ewZuQO3UpV0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\Documents\\C#\\AcadAutomationPlugin\\AcadAutomationPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\autocad.net\\25.0.0\\autocad.net.25.0.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\autocad.net.core\\25.0.0\\autocad.net.core.25.0.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\autocad.net.model\\25.0.0\\autocad.net.model.25.0.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.27\\microsoft.windowsdesktop.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.27\\microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: AutoCAD.NET 25.0.0 requires AutoCAD.NET.Core (= 25.0.0-V058) but version AutoCAD.NET.Core 25.0.0 was resolved.",
+      "projectPath": "C:\\Users\\lucas\\Documents\\C#\\AcadAutomationPlugin\\AcadAutomationPlugin.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\lucas\\Documents\\C#\\AcadAutomationPlugin\\AcadAutomationPlugin.csproj",
+      "libraryId": "AutoCAD.NET.Core",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

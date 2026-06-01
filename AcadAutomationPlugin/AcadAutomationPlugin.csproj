@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies> 
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoCAD.NET" Version="25.0.0" PrivateAssets="All" ExcludeAssets="Runtime" />
+    <PackageReference Include="AutoCAD.NET.Core" Version="25.0.0" PrivateAssets="All" ExcludeAssets="Runtime" />
+    <PackageReference Include="AutoCAD.NET.Model" Version="25.0.0" PrivateAssets="All" ExcludeAssets="Runtime" />
+  </ItemGroup>
+
+</Project>

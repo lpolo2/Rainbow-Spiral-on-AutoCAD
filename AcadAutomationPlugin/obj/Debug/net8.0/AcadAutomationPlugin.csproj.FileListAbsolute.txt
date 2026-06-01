@@ -1,0 +1,12 @@
+C:\Users\lucas\Documents\C#\AcadAutomationPlugin\bin\Debug\net8.0\AcadAutomationPlugin.deps.json
+C:\Users\lucas\Documents\C#\AcadAutomationPlugin\bin\Debug\net8.0\AcadAutomationPlugin.dll
+C:\Users\lucas\Documents\C#\AcadAutomationPlugin\bin\Debug\net8.0\AcadAutomationPlugin.pdb
+C:\Users\lucas\Documents\C#\AcadAutomationPlugin\obj\Debug\net8.0\AcadAutomationPlugin.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\C#\AcadAutomationPlugin\obj\Debug\net8.0\AcadAutomationPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\C#\AcadAutomationPlugin\obj\Debug\net8.0\AcadAutomationPlugin.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\C#\AcadAutomationPlugin\obj\Debug\net8.0\AcadAutomationPlugin.AssemblyInfo.cs
+C:\Users\lucas\Documents\C#\AcadAutomationPlugin\obj\Debug\net8.0\AcadAutomationPlugin.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\C#\AcadAutomationPlugin\obj\Debug\net8.0\AcadAutomationPlugin.dll
+C:\Users\lucas\Documents\C#\AcadAutomationPlugin\obj\Debug\net8.0\refint\AcadAutomationPlugin.dll
+C:\Users\lucas\Documents\C#\AcadAutomationPlugin\obj\Debug\net8.0\AcadAutomationPlugin.pdb
+C:\Users\lucas\Documents\C#\AcadAutomationPlugin\obj\Debug\net8.0\ref\AcadAutomationPlugin.dll
