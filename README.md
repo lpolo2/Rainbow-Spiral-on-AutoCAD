@@ -43,3 +43,18 @@ Clone the repository, open your terminal inside the project directory, and compi
 
 dotnet clean
 dotnet build
+
+### 2. Load into AutoCAD
+Launch AutoCAD and open a new or existing drawing.
+
+Type NETLOAD into the command line and press Enter.
+
+Browse to the project folder and select the compiled binary:
+\bin\Debug\net8.0\AcadAutomationPlugin.dll
+
+### 3. Execute Command
+Type DRAW3DSPIRAL in the AutoCAD terminal and hit Enter.
+
+Type Z -> Enter -> E -> Enter to auto-zoom to the generated geometry's extents.
+
+Switch your camera viewport from the top-down 2D plane to a 3D Isometric View using the ViewCube, and set your Visual Style to Realistic or Conceptual (VS command) to experience the solid 3D rendering.
